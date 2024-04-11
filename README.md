@@ -10,7 +10,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-- 👋 Hi, I’m LeeGod
+- 👋 Hi, I’m LeeGod, I'm open for commissions and contracts!
 - 💼 I'm the Founder and Software Developer at Imanity Software
 - 💬 Talk to me about minecraft related topics and software engineering
 - 👯 I’m looking to collaborate on minecraft backend software engineering projects
