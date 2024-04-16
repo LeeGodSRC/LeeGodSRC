@@ -6,11 +6,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+LeeGod's+GitHub+Profile!;I'm+a+Software+Developer;I'm+the+Leader+of+Imanity+Software" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/%E6%9D%8E%E7%A5%9Eleegod-undefined-527961244/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+## I'm currently open for commissions and contracts!
+Feel free to contact me on discord `leegod` & `leegod_imanity` or email `leegod@imanity.dev` for business related.
 
-- 👋 Hi, I’m LeeGod, I'm open for commissions and contracts!
+## Who am I?
+- 👋 Hi, I’m LeeGod.
 - 💼 I'm the Founder and Software Developer at Imanity Software
 - 💬 Talk to me about minecraft related topics and software engineering
 - 👯 I’m looking to collaborate on minecraft backend software engineering projects
