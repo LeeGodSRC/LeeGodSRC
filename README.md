@@ -38,15 +38,6 @@ Feel free to contact me on discord `leegod` & `leegod_imanity` or email `leegod@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/LeeGodSRC"><img alt="LeeGod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LeeGodSRC&custom_title=LeeGod's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## Popular Projects
@@ -58,4 +49,4 @@ Feel free to contact me on discord `leegod` & `leegod_imanity` or email `leegod@
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
 
-Last Edited on: 08/07/2022
+Last Edited on: June/16/2024
