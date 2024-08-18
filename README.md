@@ -10,7 +10,7 @@
 Feel free to contact me on discord `leegod` & `leegod_imanity` or email `leegod@imanity.dev` for business related.
 
 ## Who am I?
-- 👋 Hi, I’m LeeGod.
+- 👋 Hi, I’m LeeGod, here is my portfolio: https://leegod.me/
 - 💼 I'm the Founder and Software Developer at Imanity Software
 - 💬 Talk to me about minecraft related topics and software engineering
 - 👯 I’m looking to collaborate on minecraft backend software engineering projects
@@ -49,4 +49,4 @@ Feel free to contact me on discord `leegod` & `leegod_imanity` or email `leegod@
 ----------------------------------------------------------------------
 Credit: [aastha12](https://github.com/aastha12)
 
-Last Edited on: June/16/2024
+Last Edited on: Aug/19/2024
